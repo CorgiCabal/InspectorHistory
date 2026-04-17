@@ -13,7 +13,7 @@
   - **Back / Forward navigation** — step through your selection history; ALT+click jumps to the start or end
   - **Keyboard shortcuts** — `ALT + ←` / `ALT + →` for back/forward without leaving the keyboard
   - **Pinned favorites** — up to 15 slots across configurable rows; left-click to select, middle-click to clear, full
-  drag & drop support in both directions
+  drag & drop support in both directions. For instance, drag a object from Favorites to an Inspector field.
   - **Type filters** — independently toggle Scene objects, ScriptableObjects, and Prefabs; disabling a type purges
   existing entries
   - **Color-coded type tags** — each history entry shows a labeled color strip (Mat, Prefab, S.O., Script, Tex, etc.)
@@ -46,3 +46,5 @@
   ---
   Once installed, open the window via Window → Inspector History.
 
+  ## Attribution
+  Linking back to this repo is appreciated but not required.
