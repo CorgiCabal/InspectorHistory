@@ -10,6 +10,7 @@
 
   ## Features
 
+  - **Session persistence** — history and favorites survive domain reloads, play mode, and editor restarts
   - **Back / Forward navigation** — step through your selection history; ALT+click jumps to the start or end
   - **Keyboard shortcuts** — `ALT + ←` / `ALT + →` for back/forward without leaving the keyboard
   - **Pinned favorites** — up to 15 slots across configurable rows; left-click to select, middle-click to clear, full
@@ -19,8 +20,7 @@
   - **Color-coded type tags** — each history entry shows a labeled color strip (Mat, Prefab, S.O., Script, Tex, etc.)
   - **Reveal in Finder** — one-click OS file browser reveal for any asset entry
   - **Undo** — step back through up to 6 history snapshots
-  - **Configurable sizes** — history depth (6–50) and favorites count (3–15) saved per-machine via EditorPrefs
-  - **Session persistence** — history and favorites survive domain reloads, play mode, and editor restarts
+  - **Configurable sizes** — history depth (6–50) and favorites count (3–15) saved per-machine
   - **Zero dependencies** — single UPM package, no third-party requirements
 
   ## Installation
@@ -48,3 +48,6 @@
 
   ## Attribution
   Linking back to this repo is appreciated but not required.
+
+  <!-- unity selection history, unity inspector history, unity editor navigation, back button for Unity Editor, unity recently selected objects, unity
+   inspector bookmarks, unity asset favorites, unity back forward navigation, unity selection tracker, unity quick navigation, unity project navigation -->
