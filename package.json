@@ -1,0 +1,17 @@
+{
+  "name": "com.corgicabal.inspector-history",
+  "version": "1.0.0",
+  "displayName": "Inspector History",
+  "description": "Inspector selection history window with back/forward navigation, pinned favorites, type filters, and undo. Zero dependencies — drop in and open via Window > Inspector History.",
+  "unity": "6000.0",
+  "author": {
+    "name": "CorgiCabal"
+  },
+  "keywords": [
+    "editor",
+    "inspector",
+    "history",
+    "navigation",
+    "productivity"
+  ]
+}
