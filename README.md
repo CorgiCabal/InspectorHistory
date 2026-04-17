@@ -1,6 +1,9 @@
+
+
+
 # Inspector History for Unity
 
-<img width="654" height="554" alt="Inspector History" src="https://github.com/user-attachments/assets/7fc5046f-ca03-4e0c-a77c-997c6b0d40a8" />
+<img width="400" height="494" alt="Inspector History" src="https://github.com/user-attachments/assets/549a2bf6-1b69-43cd-8135-532cef789200" />
 
   Inspector History is a Unity editor productivity tool that tracks your recently visited assets and scene objects as a
   navigable selection history — like a browser's back/forward for your Inspector. Quickly jump between recently selected
